@@ -38,10 +38,6 @@ Once your DAG appeared in the list, you can run it through the localhost interfa
 <img src="https://github.com/lady-h-world/My_Garden/blob/main/images/Garden_Market_images/customized_pipeline/trigger_airflow_dag.png" width="1000" height="155" />
 </p>
 
-<p align="left">
-<img src="https://github.com/lady-h-world/My_Garden/blob/main/images/Garden_Market_images/notes/windows_local_airflow.png" width="766" height="79" />
-</p>
-
 If you know how to setup Airflow in other ways, such as using docker or on Windows system, feel free to [show and tell us  details][2]! 💝
 
 #### Super Mini Airflow Pipeline
